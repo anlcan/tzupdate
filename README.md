@@ -4,5 +4,5 @@ Turkiye'nin yaz saatinde kalmasiyla, jre'lerini update etmek isteyen, ancak [TZu
 
 	sudo curl https://github.com/anlcan/tzupdate/raw/master/tzupdate.zip -o tzupdate.zip && unzip tzupdate.zip && cd tzupdate && sudo sh run.sh
 
-Asil isi yapan insan ise (Ali Sadik Kumlali)[https://github.com/kumlali]. 
+Asil isi yapan insan ise [Ali Sadik Kumlali](https://github.com/kumlali). 
   
